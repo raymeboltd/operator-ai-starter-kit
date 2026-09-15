@@ -16,6 +16,10 @@ option. Add architecture only when a measured constraint earns it.
 4. Define success with [`03-verify/verification-card.md`](03-verify/verification-card.md).
 5. Run the workflow manually three times before increasing autonomy.
 
+If you want the concepts in sequence, follow the free
+[`AI 101 for Operators`](COURSE.md) course map. Each lesson ends with a decision
+or artifact you can apply to a real workflow.
+
 ## The architecture ladder
 
 | Level | Use it when | Do not move up yet when |
@@ -60,4 +64,3 @@ An assistant saying “done” is not evidence. Verify the destination state:
 
 An original, practical starter kit for owners and operators. It does not include
 private company data, customer material, paid-course content, or a universal stack.
-
